@@ -1,0 +1,2 @@
+Refrigerator 2 1.2
+Washer 1 2.2
